@@ -18,6 +18,26 @@
 3. Analyzed content trends (analyze.py)
 4. Visualized insights with charts (visualize.py)
 
+## Visualizations
+
+
+![Movies vs Shows](chart1_movies_vs_shows.png)
+
+
+
+
+![Trend Over Years](chart2_trend.png)
+
+
+
+
+![Top Genres](chart3_genres.png)
+
+
+
+
+![Top Countries](chart4_countries.png)
+
 ## Key Findings
 - Netflix library is 70% Movies, 30% TV Shows
 - TV Shows overtook Movies in 2021 for first time
